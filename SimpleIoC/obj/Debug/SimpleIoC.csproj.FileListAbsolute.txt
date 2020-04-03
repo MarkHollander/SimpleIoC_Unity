@@ -1,0 +1,17 @@
+E:\VuDM\Demo\DependencyInjectionExample\trunk\SimpleIoC\bin\Debug\SimpleIoC.exe
+E:\VuDM\Demo\DependencyInjectionExample\trunk\SimpleIoC\bin\Debug\SimpleIoC.pdb
+E:\VuDM\Demo\DependencyInjectionExample\trunk\SimpleIoC\obj\Debug\SimpleIoC.csprojAssemblyReference.cache
+E:\VuDM\Demo\DependencyInjectionExample\trunk\SimpleIoC\obj\Debug\SimpleIoC.csproj.CoreCompileInputs.cache
+E:\VuDM\Demo\DependencyInjectionExample\trunk\SimpleIoC\obj\Debug\SimpleIoC.exe
+E:\VuDM\Demo\DependencyInjectionExample\trunk\SimpleIoC\obj\Debug\SimpleIoC.pdb
+E:\VuDM\Demo\Toidicoddao_SimpleIoC\trunk\SimpleIoC\bin\Debug\SimpleIoC.exe
+E:\VuDM\Demo\Toidicoddao_SimpleIoC\trunk\SimpleIoC\bin\Debug\SimpleIoC.pdb
+E:\VuDM\Demo\Toidicoddao_SimpleIoC\trunk\SimpleIoC\bin\Debug\Unity.Abstractions.dll
+E:\VuDM\Demo\Toidicoddao_SimpleIoC\trunk\SimpleIoC\bin\Debug\Unity.Container.dll
+E:\VuDM\Demo\Toidicoddao_SimpleIoC\trunk\SimpleIoC\bin\Debug\Unity.Abstractions.pdb
+E:\VuDM\Demo\Toidicoddao_SimpleIoC\trunk\SimpleIoC\bin\Debug\Unity.Container.pdb
+E:\VuDM\Demo\Toidicoddao_SimpleIoC\trunk\SimpleIoC\obj\Debug\SimpleIoC.csprojAssemblyReference.cache
+E:\VuDM\Demo\Toidicoddao_SimpleIoC\trunk\SimpleIoC\obj\Debug\SimpleIoC.csproj.CoreCompileInputs.cache
+E:\VuDM\Demo\Toidicoddao_SimpleIoC\trunk\SimpleIoC\obj\Debug\SimpleIoC.csproj.CopyComplete
+E:\VuDM\Demo\Toidicoddao_SimpleIoC\trunk\SimpleIoC\obj\Debug\SimpleIoC.exe
+E:\VuDM\Demo\Toidicoddao_SimpleIoC\trunk\SimpleIoC\obj\Debug\SimpleIoC.pdb
